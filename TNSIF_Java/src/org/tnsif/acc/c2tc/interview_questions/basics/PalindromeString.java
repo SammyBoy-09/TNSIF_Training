@@ -1,4 +1,4 @@
-package interview_questions.basics;
+package org.tnsif.acc.c2tc.interview_questions.basics;
 
 import java.util.Scanner;
 

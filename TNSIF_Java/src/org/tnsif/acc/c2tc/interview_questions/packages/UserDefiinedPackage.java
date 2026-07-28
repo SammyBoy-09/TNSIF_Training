@@ -1,4 +1,4 @@
-package interview_questions.packages;
+package org.tnsif.acc.c2tc.interview_questions.packages;
 
 public class UserDefiinedPackage {
 
