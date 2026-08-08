@@ -1,0 +1,8 @@
+╔══════════════════════════════════════╗
+║ THE WISDOM OF DEMO.TXT ║
+╚══════════════════════════════════════╝
+Life is like code: it makes no sense until you debug it.
+Dream big, even if your RAM is small.
+Failure is just an unexpected feature.
+Trust the process, but always keep a backup.
+If life throws an error, restart with confidence.
