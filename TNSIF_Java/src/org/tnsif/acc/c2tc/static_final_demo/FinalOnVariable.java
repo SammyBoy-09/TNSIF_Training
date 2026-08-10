@@ -15,6 +15,7 @@ public class FinalOnVariable {
 		app.showLimit();
 //		max_Daily_limit=500000; // <-- Cant be changed
 
+
 	}
 
 }
