@@ -18,6 +18,7 @@ public class AdvancedScannerMethod {
 				System.out.println("Read a double " + doubleValue);
 				scan.nextLine();
 			} else {
+
 				String stringvalue = scan.next();
 				System.out.println("Unkown input");
 			}

@@ -5,5 +5,5 @@ public interface SmartDevice {
 	void turnOff();
 	void getStatus();
 	
-	static final int price = 2000;
+	static final int price = 2000	;
 }

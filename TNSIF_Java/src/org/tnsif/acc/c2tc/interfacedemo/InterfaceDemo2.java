@@ -9,7 +9,7 @@ class Add implements MathOp {
 		return a + b;
 	}
 }
-
+   
 class Sub implements MathOp {
 	public int operate(int a, int b) {
 		return a - b;
