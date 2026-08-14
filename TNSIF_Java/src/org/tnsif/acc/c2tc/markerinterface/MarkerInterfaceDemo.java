@@ -8,7 +8,7 @@ public class MarkerInterfaceDemo {
 
 		Object obj = new Object();
 
-		if (obj instanceof Registerable) {
+		if (s instanceof Registerable) {
 			System.out.println("Student is registered for this course.");
 		} else {
 			System.out.println("Student is not registered for this course.");
