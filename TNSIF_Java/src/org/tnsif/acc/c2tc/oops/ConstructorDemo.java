@@ -22,7 +22,7 @@ public class ConstructorDemo {
 
 	public static void main(String[] args) {
 		User user = new User();
-		User user1 = new User("Rajat", 20);
+		User user1 = new User("Sam", 26);
 
 	}
 
