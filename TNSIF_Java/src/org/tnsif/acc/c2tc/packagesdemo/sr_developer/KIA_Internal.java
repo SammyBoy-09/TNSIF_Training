@@ -1,6 +1,6 @@
-package org.tnsif.acc.c2tc.packages.sr_developer;
+package org.tnsif.acc.c2tc.packagesdemo.sr_developer;
 
-import org.tnsif.acc.c2tc.packages.jr_developer.KIA_Airbags;
+import org.tnsif.acc.c2tc.packagesdemo.jr_developer.KIA_Airbags;
 
 public class KIA_Internal {
 
